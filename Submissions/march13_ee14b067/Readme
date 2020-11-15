@@ -1,0 +1,14 @@
+Name - Y.Saikumar
+Roll Number - EE14B067
+Cipher Name - Descartes
+
+I am doing this assignment alone
+
+Files Attached:-
+----------------
+
+1. linear1.cpp , linear2.cpp , linear3.cpp , linear4.cpp - These are the c++ code I wrote for finding the maximum bias and also the linear approximation tables for the new sboxes. Using these I answered the question 11.
+2. differential1.cpp , differential2.cpp , differential3.cpp , differential4.cpp - These are the c++ files I wrote for finding the maximum bias for differential cryptanalysis.
+3. lin_approx_table_1.txt , lin_approx_table_2.txt , lin_approx_table_3.txt , lin_approx_table_4.txt - These are the linear approximation table printed into a file for each sbox.
+4. diff_table_1.txt , diff_table_2.txt , diff_table_3.txt , diff_table_4.txt - These are the files which contain the maximum bias information in case of differential cryptanalysis.
+5. mtoq2.pdf - This is the report answering the section 2.

@@ -1,0 +1,16 @@
+Name - Y.Saikumar
+Roll Number - EE14B067
+Cipher Name - Descartes
+
+I am doing this assignment alone.
+
+Files Atached :-
+----------------
+
+1. mtoq.pdf - The writeup for section-1.
+2. nonlinearity.cpp - A c++ program to check the non-linearity of the sbox proposed.
+3. sac.cpp - A c++ program to disprove SAC property of the sbox.
+3. linear.cpp - A c++ program to print the linear approximation table of the sbox.
+4. differential.cpp - A c++ program to print the differential approximation table of the sbox.
+5. linear_1.png & linear_2.png - Screenshots of the linear approximation table.
+6. differential_1.png & differential_2.png - Screenshots of the differential approximation table.
